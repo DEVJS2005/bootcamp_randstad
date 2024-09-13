@@ -9,3 +9,5 @@ A plataforma .NET foi projetada para fornecer produtividade, desempenho, seguran
 Linha do tempo do .net: https://time.graphics/pt/line/291016
 Etapas do compilador: 
 ![image](https://github.com/user-attachments/assets/2724be78-6874-4a65-9fb2-b6a4b46e8735)
+![image](https://github.com/user-attachments/assets/64b81399-bb5c-4550-9003-c893fa16afbb)
+
